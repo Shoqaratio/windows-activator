@@ -1,0 +1,13 @@
+{
+    "version": "1.0.0",
+    "files": [
+        {
+            "url": "https://github.com/Shoqaratio/windows-activator/raw/refs/heads/main/WindowsActivatorByShoqapique.dll",
+            "name": "WindowsActivatorByShoqapique.dll"
+        },
+        {
+            "url": "https://github.com/Shoqaratio/windows-activator/raw/refs/heads/main/WindowsActivatorByShoqapique.exe",
+            "name": "WindowsActivatorByShoqapique.exe"
+        }
+    ]
+}
